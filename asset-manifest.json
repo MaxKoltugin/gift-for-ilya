@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gift-for-ilya/static/css/main.d8128fa4.css",
-    "main.js": "/gift-for-ilya/static/js/main.b4c06a54.js",
+    "main.js": "/gift-for-ilya/static/js/main.5f7fdac2.js",
     "index.html": "/gift-for-ilya/index.html",
     "main.d8128fa4.css.map": "/gift-for-ilya/static/css/main.d8128fa4.css.map",
-    "main.b4c06a54.js.map": "/gift-for-ilya/static/js/main.b4c06a54.js.map"
+    "main.5f7fdac2.js.map": "/gift-for-ilya/static/js/main.5f7fdac2.js.map"
   },
   "entrypoints": [
     "static/css/main.d8128fa4.css",
-    "static/js/main.b4c06a54.js"
+    "static/js/main.5f7fdac2.js"
   ]
 }

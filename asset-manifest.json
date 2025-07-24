@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gift-for-ilya/static/css/main.d8128fa4.css",
+    "main.js": "/gift-for-ilya/static/js/main.b4c06a54.js",
+    "index.html": "/gift-for-ilya/index.html",
+    "main.d8128fa4.css.map": "/gift-for-ilya/static/css/main.d8128fa4.css.map",
+    "main.b4c06a54.js.map": "/gift-for-ilya/static/js/main.b4c06a54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8128fa4.css",
+    "static/js/main.b4c06a54.js"
+  ]
+}
